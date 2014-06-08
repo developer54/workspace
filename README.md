@@ -9,7 +9,7 @@ Android Studio download http://developer.android.com/sdk/installing/studio.html
 Gradle http://www.gradle.org/downloads
 
 
-Tutorial
+[Tutorial]
 menggunakan android studio
 http://www.i-programmer.info/programming/android/5887-android-adventures-getting-started-with-android-studio.html
 http://www.raywenderlich.com/56107/make-first-android-app-part-1
