@@ -27,3 +27,7 @@ http://www.samsung.com/us/kies/
 atau boleh cuba
 
 https://github.com/Developer54com/UniversalAdbDriver
+
+atau
+
+http://developer.samsung.com/android/tools-sdks/Samsung-Andorid-USB-Driver-for-Windows
