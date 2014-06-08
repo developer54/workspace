@@ -22,7 +22,7 @@ c:\adb devices
 Jika tidak menunjukkan apa-apa device
 
 download (untuk note 3)
-http://www.samsung.com/us/kies/
+http://www.samsung.com/us/kies/ (solved in my note3)
 
 atau boleh cuba
 
